@@ -1,1 +1,1 @@
-# mini project-jstn
+# mini-project-jstn
